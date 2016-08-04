@@ -18,7 +18,7 @@ barplot(
   (totalEmissionBaltimore$Emissions)/10^3,
   names.arg=totalEmissionBaltimore$year,
   xlab="Year",
-  ylab="PM2.5 Emissions (Thousand Tons)",
+  ylab="PM2.5 Emissions (Kilo Tons)",
   main="Total PM2.5 Emissions From All Baltimore City Sources"
 )
 
